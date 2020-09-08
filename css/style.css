@@ -54,5 +54,6 @@ h4 {
 }
 
 .large {
+  border: black solid 1px;
   width: 303%;
 }
